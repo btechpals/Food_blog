@@ -1,0 +1,21 @@
+#Food_Blog
+Hello, welcome to our website. 
+We have created a personal blog on the topic called "Food Blog".
+In this website, there are reviews posted about the food of renowned
+restaurents of Ballari. Also, people can share their reviews in our
+website.
+We used HTML, CSS and Javascript as frontend.
+MongoDB and Nodejs are used for backend. 
+
+
+Installation:
+1. MongoDB compass for databse
+2. Nodejs for server connection
+   In nodejs, initially install node.
+   Then, install "npm install nodemon" and "npm install express"
+   modules.
+
+In our website, there is a option for people to subscribe to our 
+website. A person must enter their email-id with "@gmail.com" and
+press subscribe button. Then, their email will be stored in the database.
+   
